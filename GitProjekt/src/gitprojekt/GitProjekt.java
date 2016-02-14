@@ -18,4 +18,6 @@ public class GitProjekt {
         // TODO code application logic here
     }
     
+    //ZMIANY!
+    
 }
